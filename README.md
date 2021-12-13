@@ -9,13 +9,14 @@
 ### Halló heimur
 1. VSCode
 1. Halló heimur `<h1>Halló, heimur!</h1>`  
-1. Github
+1. Github github.io
 
 ### Vefsíða 1.
 1. html: https://www.w3schools.com/html/default.asp
 1. CSS: https://www.w3schools.com/w3css/default.asp
-   - font, litir
-   - uppsetning, sleppa: css grid: https://gridbyexample.com/ eða flexbox.
+   - fontar, 
+   - veffontar [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
+   - [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
 
 ### Vefsíða 2.
 1. nota css safn (spara tíma) fyrir útlit og uppsetningu. 
